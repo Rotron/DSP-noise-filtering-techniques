@@ -1,2 +1,2 @@
 # DSP-noise-filtering-techniques
-Project in DSP filtering out noise using IIR and FIR notch filters, ECE161B, University of California, San Diego
+The objective of this project was Project in DSP filtering out noise using IIR and FIR notch filters, ECE161B, University of California, San Diego
