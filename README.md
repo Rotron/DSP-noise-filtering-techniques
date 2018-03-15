@@ -1,2 +1,2 @@
 # DSP-noise-filtering-techniques
-The objective of this project was Project in DSP filtering out noise using IIR and FIR notch filters, ECE161B, University of California, San Diego
+The objective of this project is to filter out noise at a specific frequency of an arbitrary audio signal using finite impulse response (FIR) and infinite impulse response (IIR) notch filters. The filters are designed, tested and compared. The MatLab implementation is also compared with an equivalent implementation in C. The problem is relevant in order to use digital signal processing techniques in order to process data after sampling.
